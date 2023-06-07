@@ -1,5 +1,0 @@
-scp -r ~/MIT/climate/data/grid_loc_txt.pkl czeng12@txe1-login.mit.edu:/home/gridsan/czeng12/climate/data/
-
-scp -r czeng12@txe1-login.mit.edu:/home/gridsan/czeng12/climate/nbs/ ~/MIT/climate
-
-scp ~/MIT/climate/nbs/get_text.ipynb czeng12@txe1-login.mit.edu:/home/gridsan/czeng12/climate/nbs/
